@@ -25,7 +25,7 @@
 .ubermenu-skin-black-white-2{border:none;background-color:transparent;background:none;background:none;background:-moz-linear-gradient(top, #3d3d3d, #212121);background:-ms-linear-gradient(top, #3d3d3d, #212121);background:-o-linear-gradient(top, #3d3d3d, #212121);-webkit-box-shadow:none;-moz-box-shadow:inset 1px 1px 0 0 rgba(255, 255, 255, 0.1);box-shadow:none;}
 .common-links-menu a{padding-top:20px!important;}
 .common-links-menu > a span{font-family:'Calibri'!important;font-size:17px!important;text-transform:capitalize!important;font-weight:600!important;color:#6CC24A!important;position:relative!important;display:block!important;}
-.common-links-menu > a span:after{content:"";width:25px;height:20px;display:inline-block;background-image:url(https://uhy-ae.com/images/sprite.png);background-position:-132px -18px;margin-left:0;transition:all 0.5s ease-in-out;}
+.common-links-menu > a span:after{content:"";width:25px;height:20px;display:inline-block;background-image:url(https://uhy-ae.com/images/sprite.webp);background-position:-132px -18px;margin-left:0;transition:all 0.5s ease-in-out;}
 .common-links-menu > a:hover span{color:#002F6C!important;}
 .common-links-menu > a:hover span:after{background-position:-105px -18px!important;transition:all 0.5s ease-in-out;}
 .ubermenu-skin-black-white-2 .ubermenu-submenu.ubermenu-submenu-drop{background-color:#fff;border:none;padding:27px 50px;padding-bottom:10px;border-radius:0 0 15px 15px;}
@@ -86,7 +86,7 @@
 .ubermenu .ubermenu-target{border:1px solid red;padding:0 10px!important;}
 body{color:#002f6c;}
 .logo-head .row{justify-content:space-between;}
-.reg-section.reg-top-section{background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/vat-reg-bg-1.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover;}
+.reg-section.reg-top-section{background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/vat-reg-bg-1.webp);background-position:center center;background-repeat:no-repeat;background-size:cover;}
 .reg-container.reg-column-gap-default{max-width:1140px;height:406px;}
 @media (max-width:480px){
 .reg-container.reg-column-gap-default{height:290px;}
@@ -146,7 +146,7 @@ a:hover,a:visited,a:focus{outline:0;text-decoration:none;}
 .common-links{font-family:Calibri,'Open Sans';font-size:17px;font-weight:600;color:#6cc24a;position:relative;margin-top:auto;}
 .common-links:hover{color:#002f6c;}
 .common-links:hover::after{background-position:-105px -18px;transition:all .5s ease-in-out;}
-.common-links::after{content:"";width:25px;height:20px;display:inline-block;background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.png);background-position:-132px -18px;margin-left:0;transition:all .5s ease-in-out;}
+.common-links::after{content:"";width:25px;height:20px;display:inline-block;background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.webp);background-position:-132px -18px;margin-left:0;transition:all .5s ease-in-out;}
 header{position:relative;z-index:99;padding-bottom:0;border-bottom:.5px solid rgba(255,255,255,0.6);}
 .logo-head{position:relative;z-index:11;}
 .logo-hold img{height:60px;margin-top:10px;filter:brightness(10);}
@@ -177,14 +177,14 @@ header{position:relative;z-index:99;padding-bottom:0;border-bottom:.5px solid rg
 .modal-popup input[type="submit"]:focus{outline:0;box-shadow:none;border:0;}
 .modal-popup textarea{height:70px!important;}
 .modal-popup .dropdown{position:relative;z-index:9;cursor:pointer;}
-.modal-popup .dropdown::after{content:"";display:block;clear:both;position:absolute;right:4px;background:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.png) no-repeat;width:10px;height:20px;background-position:-216px -23px;top:8px;z-index:-1;}
+.modal-popup .dropdown::after{content:"";display:block;clear:both;position:absolute;right:4px;background:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.webp) no-repeat;width:10px;height:20px;background-position:-216px -23px;top:8px;z-index:-1;}
 .modal-popup select.form-control{cursor:pointer;padding-left:15px;}
 .modal-wrapper{background:#fff;z-index:9;right:0;transition:all .3s ease-in;}
 .close-holder{position:absolute;padding:10px;left:-54px;top:-26px;z-index:-99999;height:170px;border-bottom-right-radius:0;border-top-left-radius:20px;background:#6cc24a;border:2px solid #fff;transition:all .3s ease-in;box-shadow:1px 6px 20px 8px rgba(73,80,87,0.33);}
 .close-holder a.lg-trigger{color:#fff;position:relative;font-family:Calibri,'Open Sans';font-size:14px;font-weight:600;text-transform:uppercase;padding:6px 7px 17px 9px;display:inline-block;height:140px;width:140px;transform:rotate(-90deg);}
-.close-holder a.lg-trigger::after{content:"";width:40px;height:46px;margin:auto;background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.png);display:block;background-position:-294px -129px;position:absolute;right:0;top:-13px;transform:scale(0.8);}
+.close-holder a.lg-trigger::after{content:"";width:40px;height:46px;margin:auto;background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.webp);display:block;background-position:-294px -129px;position:absolute;right:0;top:-13px;transform:scale(0.8);}
 .close-holder .sm-trigger{display:none;color:#fff;position:relative;font-family:Calibri,'Open Sans';font-size:14px;font-weight:600;text-transform:uppercase;}
-.close-holder .sm-trigger::after{display:none;content:"";width:40px;height:46px;margin:auto;background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.png);display:block;background-position:-294px -129px;position:absolute;right:0;top:-13px;transform:scale(0.8);}
+.close-holder .sm-trigger::after{display:none;content:"";width:40px;height:46px;margin:auto;background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.webp);display:block;background-position:-294px -129px;position:absolute;right:0;top:-13px;transform:scale(0.8);}
 .close-holder:hover{background-color:#002f6c;}
 .loader{visibility:hidden;position:absolute;bottom:32px;width:30px;height:46px;left:200px;}
 .loader img{width:30px;}
@@ -197,10 +197,10 @@ header{position:relative;z-index:99;padding-bottom:0;border-bottom:.5px solid rg
 .service-single p{color:#002f6c;font-size:14px;font-weight:400;margin-top:15px;overflow:hidden;}
 .icon-holder{width:80px;height:80px;border-radius:50%;text-align:center;margin-right:10px;}
 .icon-holder img{width:75px;margin:auto;height:auto;}
-.services-slider .slick-prev:before,.services-slider .slick-next:before{background:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.png) left top no-repeat;content:" "!important;opacity:1!important;height:60px;width:55px;transform:scale(0.8);}
+.services-slider .slick-prev:before,.services-slider .slick-next:before{background:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.webp) left top no-repeat;content:" "!important;opacity:1!important;height:60px;width:55px;transform:scale(0.8);}
 .services-slider .slick-next:before{background-position:-16px -496px;position:absolute;margin-right:0;}
 .services-slider .slick-prev:before{background-position:-87px -496px;position:absolute;margin-right:0;}
-.services-slider .slick-prev:hover:before,.services-slider .slick-next:hover:before{background:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.png) left top no-repeat;}
+.services-slider .slick-prev:hover:before,.services-slider .slick-next:hover:before{background:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.webp) left top no-repeat;}
 .services-slider .slick-next:hover:before{background-position:-14px -430px;}
 .services-slider .slick-prev:hover:before{background-position:-84px -428px;}
 .services-slider .slick-prev{right:auto;left:-46px;z-index:11;}
@@ -212,7 +212,7 @@ header{position:relative;z-index:99;padding-bottom:0;border-bottom:.5px solid rg
 .service-single:hover .common-links::after{background-position:-157px -18px;transition:all .5s ease-in-out;}
 .services-slider .slick-arrow{top:33%;}
 .contact-fold{position:relative;}
-.contact-fold .blue-bg{position:absolute;width:100%;height:340px;top:-375px;left:0;background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/member_section_bg.jpg);z-index:-1;background-color:transparent;background-repeat:no-repeat;background-position:center;background-size:cover;}
+.contact-fold .blue-bg{position:absolute;width:100%;height:340px;top:-375px;left:0;background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/member_section_bg.webp);z-index:-1;background-color:transparent;background-repeat:no-repeat;background-position:center;background-size:cover;}
 .more-insights-home{margin-bottom:50px;}
 .insight-card{padding:20px;border:0!important;border-bottom:15px solid transparent!important;border-radius:15px!important;position:relative!important;overflow:hidden;margin-bottom:30px;background:0;transition:all .3s ease-in;}
 .insight-card .box-link{position:absolute;left:0;right:0;width:100%;height:100%;top:0;}
@@ -252,7 +252,7 @@ footer .address{text-align:center;}
 footer .address h4{font-size:16px;margin-bottom:0;text-transform:uppercase;}
 footer a{color:inherit;}
 footer a:hover{color:#6cc24a;text-decoration:none;}
-.common-links-menu>a span:after{content:""!important;width:25px!important;height:20px!important;display:inline-block!important;background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.png)!important;background-position:-132px -18px!important;margin-left:0;transition:all .5s ease-in-out;}
+.common-links-menu>a span:after{content:""!important;width:25px!important;height:20px!important;display:inline-block!important;background-image:url(https://cdn.jsdelivr.net/gh/websters-ae/cdn-network@main/uhy_ae_cdn/images/sprite.webp)!important;background-position:-132px -18px!important;margin-left:0;transition:all .5s ease-in-out;}
 .ubermenu.ubermenu-main .ubermenu-item-level-0>.ubermenu-target{min-height:40px;}
 .head-menu-holder .ubermenu.ubermenu-main .ubermenu-item-level-0>.ubermenu-target{min-height:71px;}
 #ubermenu-main-11-secondary-menu-2.ubermenu-skin-black-white-2 .ubermenu-submenu.ubermenu-submenu-drop{width:auto!important;}
@@ -587,7 +587,7 @@ button.rmp_menu_trigger .rmp-trigger-box{width:40px;display:inline-block;positio
 .wpcf7-spinner{visibility:hidden;display:inline-block;background-color:#6CC24A;width:24px;height:24px;border:none;border-radius:100%;padding:0;margin:0px 45px;position:relative;margin-top:15px;}
 .wpcf7-spinner::before{content:'';position:absolute;background-color:#fbfbfc;top:4px;left:4px;width:6px;height:6px;border:none;border-radius:100%;transform-origin:8px 8px;animation-name:spin;animation-duration:1000ms;animation-timing-function:linear;animation-iteration-count:infinite;}
 /*! CSS Used from: Embedded */
-.member-section{background-color:transparent;background-image:url(https://uhy-ae.com/images/member_section_bg.jpg);background-repeat:no-repeat;background-position:center;background-size:cover;display:flex;align-items:center;padding:35px 0;}
+.member-section{background-color:transparent;background-image:url(https://uhy-ae.com/images/member_section_bg.webp);background-repeat:no-repeat;background-position:center;background-size:cover;display:flex;align-items:center;padding:35px 0;}
 .member-section .row > div{min-height:100px;display:flex;align-items:center;justify-content:center;}
 .member-section .social .icons-wrapper .icon-item{padding:0 10px;width:50px;text-align:center;}
 .member-section .social .icons-wrapper .icon-item a{color:white;font-size:25px;}
